@@ -13,11 +13,6 @@ export default function App() {
     <Router>
       <div>
         <nav>
-          <ul>
-            <li>
-              <Link to="/">MaddieCoin</Link>
-            </li>
-          </ul>
         </nav>
         <Switch>
           <Route path="/">
